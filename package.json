@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.6.0",
+    "stripe": "^12.9.0"
+  },
+  "name": "encore-music-academy-server",
+  "description": "\"# b7a12-summer-camp-server_side-RageNUB\"",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programming-hero-web-course1/b7a12-summer-camp-server_side-RageNUB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programming-hero-web-course1/b7a12-summer-camp-server_side-RageNUB/issues"
+  },
+  "homepage": "https://github.com/programming-hero-web-course1/b7a12-summer-camp-server_side-RageNUB#readme"
+}
